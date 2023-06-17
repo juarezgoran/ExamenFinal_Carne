@@ -1,0 +1,15 @@
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\bin\Debug\net6.0\Buscar Error.exe
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\bin\Debug\net6.0\Buscar Error.deps.json
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\bin\Debug\net6.0\Buscar Error.runtimeconfig.json
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\bin\Debug\net6.0\Buscar Error.dll
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\bin\Debug\net6.0\Buscar Error.pdb
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\Buscar Error.csproj.AssemblyReference.cache
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\Buscar Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\Buscar Error.AssemblyInfoInputs.cache
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\Buscar Error.AssemblyInfo.cs
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\Buscar Error.csproj.CoreCompileInputs.cache
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\Buscar Error.dll
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\refint\Buscar Error.dll
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\Buscar Error.pdb
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\Buscar Error.genruntimeconfig.cache
+C:\Users\IXCAN\Desktop\Visual Studio proyectos\Buscar Error\Buscar Error\obj\Debug\net6.0\ref\Buscar Error.dll
